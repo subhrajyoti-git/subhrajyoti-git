@@ -3,7 +3,7 @@
 - 👀 I’m interested in taking up new technical challenges on Business Intelligence and Analytics.
 - 🌱 I’m currently improving my data engineering skills.
 - 🌱 I’m currently preparing for Kafka and GCP certification.
-- 💞️ I’m intrested in keeping up-to-date with latest technological developments.
+- 💞️ I’m intrested in keeping up-to-date with latest technological developments
 - 💻 I have a strong knowledge of Shell script, PL/SQL, Python
 - ✨ I have excellient knowledge of data vizualization tools like Power BI, EazyBi, Tableau.
 - ⚡ I'm also learning container-orchestration system - Kubernetis
