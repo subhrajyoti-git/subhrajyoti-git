@@ -8,7 +8,6 @@
 - ✨ I have excellient knowledge of data vizualization tools like Power BI, EazyBi, Tableau, PowerApps.
 - ⚡ I'm also learning container-orchestration system - Kubernetis
 - 📫 How to reach me: subhrajyoti09@gmail.com
-- 
 
 <!---
 subhrajyoti-git/subhrajyoti-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
