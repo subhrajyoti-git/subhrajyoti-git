@@ -5,7 +5,7 @@
 - 🌱 I’m currently preparing for Kafka and GCP certification.
 - 💞️ I’m intrested in keeping up-to-date with latest technological developments
 - 💻 I have a strong knowledge of Shell script, PL/SQL, Python
-- ✨ I have excellient knowledge of data vizualization tools like Power BI, EazyBi, Tableau, PowerApps.
+- ✨ I have excellient knowledge of data vizualization tools like Power BI, EazyBi, Tableau, PowerApps
 - ⚡ I'm also learning container-orchestration system - Kubernetis.
 - 📫 How to reach me: subhrajyoti09@gmail.com
 
